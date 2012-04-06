@@ -20,7 +20,7 @@ knowledge of hub when starting this project.
 Requirements
 ------------
 
-gizz requires Python 3.2+. No other libraries are required.
+gizz requires Python 3.x+. No other libraries are required.
 
 Quick Start
 -----------
